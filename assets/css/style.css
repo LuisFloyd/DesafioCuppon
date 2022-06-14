@@ -1,0 +1,49 @@
+
+body{
+    font-family: "roboto light";
+}
+
+.fondoverde{
+    background-color: #28a745;
+}
+.textoverde{
+    color: #28a745;
+}
+.textoplomo{
+    color: #707070;
+}
+
+nav{
+    height: 4rem;
+}
+.logoblanco{
+    width: 7rem;   
+}
+
+.descripcion{
+    color: #212529;
+}
+.producto{
+    color: #707070;
+    margin: 0;
+    padding-bottom: 0.5em;
+}
+
+.direccion{
+    color: #707070;
+    font-size: 13px;
+}
+.direccion i{
+    font-size: 11px;
+}
+
+form{
+    font-family: 'roboto medium';
+    color: #FFFFFF;
+}
+.btnformulario{
+    width: 120px;
+}
+.fotologoblack{
+    width: 120px;
+}
